@@ -64,3 +64,7 @@ from pyspark import pandas as pd
 pd.read_csv()
 ```
 
+# II) SQL
+
+Les deux requêtes de la seconde section sont présentes respectivement dans [`1_req_ca.sql`](https://github.com/V0lantis/TestServier/blob/main/sql/manipulations/1_req_ca.sql) (première requête SQL)
+ainsi que dans [`2_req_categories.sql`](https://github.com/V0lantis/TestServier/blob/main/sql/manipulations/2_req_categories.sql) (seconde requête SQL)
